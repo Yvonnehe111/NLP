@@ -4,7 +4,7 @@ import requests
 import openai
 
 # 步骤1：设置大模型API（这里以OpenAI为例）
-API_KEY = "sk-0fbf3033883c45c39ee13b3939401132"
+API_KEY = " "
 API_URL = "https://api.deepseek.com/v1/chat/completions"
 
 # 步骤2：构建生成网页的提示词
